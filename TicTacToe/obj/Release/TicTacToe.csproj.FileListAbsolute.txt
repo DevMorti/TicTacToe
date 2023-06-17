@@ -6,3 +6,11 @@ C:\Users\Morti\Programmieren\C#\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Rele
 C:\Users\Morti\Programmieren\C#\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\Morti\Programmieren\C#\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
 C:\Users\Morti\Programmieren\C#\Konsolenanwendungen\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\Morti\Programmieren\C#\Anwendungen\Konsole\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb
